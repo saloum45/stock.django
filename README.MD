@@ -12,3 +12,8 @@ http://127.0.0.1:8000/admin/stock
 username : salem  
 password : 1234                                    
 ```
+
+#### l'accès à la liste produits: 
+```
+http://127.0.0.1:8000/produits/                                   
+```
